@@ -19,6 +19,7 @@ Retrieve the list of [chatMessageHostedContent](../resources/chatmessagehostedco
 
 ### Permissions for channel
 
+<!-- { "blockType": "ignored"  } // Note: Removing this line will result in the permissions autogeneration tool overwriting the table. -->
 | Permission type                        | Permissions (from least to most privileged) |
 |:---------------------------------------|:--------------------------------------------|
 |Delegated (work or school account)| ChannelMessage.Read.All, Group.Read.All**, Group.ReadWrite.All** |
@@ -29,6 +30,7 @@ Retrieve the list of [chatMessageHostedContent](../resources/chatmessagehostedco
 
 ### Permissions for chat
 
+<!-- { "blockType": "ignored"  } // Note: Removing this line will result in the permissions autogeneration tool overwriting the table. -->
 | Permission type                        | Permissions (from least to most privileged) |
 |:---------------------------------------|:--------------------------------------------|
 |Delegated (work or school account)| Chat.Read, Chat.ReadWrite|

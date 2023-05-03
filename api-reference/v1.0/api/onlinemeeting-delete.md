@@ -15,6 +15,7 @@ Delete an [onlineMeeting](../resources/onlinemeeting.md) object.
 
 ## Permissions
 
+<!-- { "blockType": "ignored"  } // Note: Removing this line will result in the permissions autogeneration tool overwriting the table. -->
 | Permission type | Permissions (from least to most privileged)                  |
 | :-------------- | :----------------------------------------------------------- |
 | Delegated (work or school account)     | OnlineMeetings.ReadWrite              |
