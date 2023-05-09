@@ -357,8 +357,9 @@ Namespace: microsoft.graph
 |strictEnforcement|
 |disabled|
 |unknownFutureValue|
+|strictLocation|
 
-### msiType values 
+### msiType values
 
 |Member|
 |:---|
